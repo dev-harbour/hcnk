@@ -1,0 +1,10 @@
+# hcnk
+
+*.bak
+*.exe
+tmp.c
+
+bin
+build
+lib
+tmp
